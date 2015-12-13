@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Abc Flash</string>
+
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_single_pic">Flashcard</string>
+    <string name="title_activity_splash">Abc Flash</string>
+
+</resources>
